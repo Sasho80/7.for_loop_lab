@@ -70,5 +70,13 @@ hi	  3	     i = 3
 bamboo  9	     a + o + o = 1 + 4 + 4 = 9
 beer	  4	     e + e = 2 + 2 = 4
 
+07.Problem: Sum numbers
+To write a program that reads n-th number of integers entered by the user and sums them.
+• The number of numbers n is entered from the first line of the input.
+• One whole number is entered from the next n lines.
+The program must read the numbers, add them, and print the sum.
+Sample input and output
+
+
 
 
