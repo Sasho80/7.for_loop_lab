@@ -41,4 +41,18 @@ input	output	input	output		input	output
                         1                       3
                                                 2
                                                 1
-                                                
+
+05.Problem:
+Write a program that reads text (string) entered by the user and prints each character of the text on a separate line.  
+
+Sample input output
+input	       output	input	     output
+softuni      s          ice cream  i                              
+             o                     c
+             f                     e
+             t                    
+             u                     c
+             n                     r
+             i                     e
+                                   a
+                                   m
