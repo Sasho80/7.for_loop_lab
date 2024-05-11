@@ -75,8 +75,11 @@ To write a program that reads n-th number of integers entered by the user and su
 • The number of numbers n is entered from the first line of the input.
 • One whole number is entered from the next n lines.
 The program must read the numbers, add them, and print the sum.
+
 Sample input and output
-
-
-
-
+input	 output		input	 output	input	 output	input	 output	input	 output
+2      30               3      -60        4      43         1      999        0      0
+10                      -10               45                999
+20                      -20              -20
+                        -30               7
+                                          11
