@@ -83,3 +83,27 @@ input	 output		input	 output	input	 output	input	 output	input	 output
 20                      -20              -20
                         -30               7
                                           11
+
+08.Problem: Number sequence    
+Write a program that reads n number of integers. Print the largest and smallest number among those entered.
+
+input   output
+5       Max number: 304
+10      Min number: 0
+20
+304
+0
+50	
+
+input	  output
+6       Max number: 1000
+250     Min number: 0
+5
+2
+0
+100
+1000	
+
+
+     
+
