@@ -124,6 +124,42 @@ input	     output              commentary
 50
 50		
 
+10.Problem: Odd even sum
+Write a program that reads n-th number of integers supplied by the user and checks whether the sum of the numbers in even positions is equal to the sum of the numbers in odd positions.
+• If the sums are equal, print two lines: "Yes" and on a new line "Sum = " + the sum;
+• If the sums are not equal, print two lines: "No" and on a new line "Diff = " + the difference.
+The difference is calculated in absolute value.
+
+Sample input and output
+input	     output              commentary
+4          Yes                 10+60 = 50+20 = 70
+10         Sum = 70
+50
+60
+20	
+
+input	     output              commentary
+4          No                  3+1 ≠ 5-2
+3          Diff = 1            Diff =
+5                              |4-3| = 1
+1
+-2	
+
+input	     output              commentary
+3          No                  5+1 ≠ 8
+5          Diff = 2            Diff =
+8                              |6-8| = 2
+1	
+	
+
+
+
+	
+
+	
+
+
+
 
 
 
