@@ -42,7 +42,7 @@ input	output	input	output		input	output
                                                 2
                                                 1
 
-05.Problem:
+05.Problem: Character sequence
 Write a program that reads text (string) entered by the user and prints each character of the text on a separate line.  
 
 Sample input output
