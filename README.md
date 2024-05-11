@@ -105,6 +105,29 @@ input	  output
 1000	
 
 09.Problem: Left and Right sum
+Write a program that reads 2 * n-th number of integers supplied by the user and checks whether the sum of the first n numbers (left sum) is equal 
+to the sum of the second n numbers (right sum). If there is a tie, print "Yes, sum = " + the sum; otherwise it prints "No, diff = " + the difference. 
+The difference is calculated as a positive number (in absolute value).
+
+Sample input and output
+input	    output             commentary
+2         Yes, sum = 100     10+90 = 60+40 = 100
+10
+90
+60
+40	
+
+input	     output              commentary
+2          No, diff = 1        90+9 ≠ 50+50
+90                             Difference = |99-100| = 1
+9
+50
+50		
+
+
+
+
+
 
 
      
