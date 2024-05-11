@@ -21,6 +21,12 @@ input	output	         input	output	            input	output
       10                                                10
                                                         13
 
-03.Problem: 
+03.Problem: Even powers of 2
 Write a program that reads a number n entered by the user and prints the even powers of 2 ≤ 2^n: 2^0, 2^2, 2^4, 2^6, …, 2^n.
 
+Sample input output
+input	  output	input	  output	input	  output		input	  output		input	  output
+3       1         4       1         5       1               6       1               7       1
+        4                 4                 4                       4                       4
+                          16                16                      16                      16
+                                                                    64                      64
