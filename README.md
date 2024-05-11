@@ -104,6 +104,8 @@ input	  output
 100
 1000	
 
+09.Problem: Left and Right sum
+
 
      
 
