@@ -57,7 +57,7 @@ softuni      s          ice cream  i
                                    a
                                    m
 
-06.Problem: 
+06.Problem: Vowels sum 
 To write a program that reads text (string) entered by the user and calculates and prints the sum of the vowel values according to the table below:
 
 letter	a	e	i	o	u
