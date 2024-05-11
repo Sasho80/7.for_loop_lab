@@ -31,6 +31,14 @@ input	  output	input	  output	input	  output		input	  output		input	  output
                           16                16                      16                      16
                                                                     64                      64
 
-04. Problem:
+04. Problem: Numbers n...1
 Write a program that reads a positive integer n entered by the user and prints the numbers n through 1 in reverse order.
-The number n entered will always be greater than 1.                                                                    
+The number n entered will always be greater than 1.
+
+input	output	input	output		input	output
+2     2           3     3                 5     5
+      1                 2                       4
+                        1                       3
+                                                2
+                                                1
+                                                
