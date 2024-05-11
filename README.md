@@ -20,3 +20,7 @@ input	output	         input	output	            input	output
       7                       7                         7
       10                                                10
                                                         13
+
+03.Problem: 
+Write a program that reads a number n entered by the user and prints the even powers of 2 ≤ 2^n: 2^0, 2^2, 2^4, 2^6, …, 2^n.
+
